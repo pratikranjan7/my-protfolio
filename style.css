@@ -1,0 +1,88 @@
+html {
+    background: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902772.jpg?w=2000);
+    font-family: Microsoft YaHei UI;
+    overflow-y: scroll;
+}
+
+.intro {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 900px;
+    height: 500px;
+    margin-left: 21%;
+    text-align: center;
+
+}
+
+img {
+    width: 48px;
+}
+
+.initiate {
+    font-size: 110px;
+}
+
+.name {
+    font-size: 35px;
+}
+.exact {
+    font-size: 80px;
+}
+
+.info {
+    font-size: 35px;
+    text-align:justify;
+}
+
+.links {
+    font-size: 35px;
+    font-family: Avenir Next LT Pro Demi;
+    display: flex;
+    margin-left: 20%;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.ln {
+    background-color: black;
+    font-family: Avenir Next LT Pro Demi;
+    border-radius: 15px;
+    width: 250px;
+    border: 3px solid black;
+    height: 55px;
+    font-weight: bold;
+}
+
+.gt {
+    background-color: black;
+    font-family: Avenir Next LT Pro Demi;
+    border-radius: 15px;
+    width: 250px;
+    height: 55px;
+    border: 3px solid black;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.project {
+    background-color: black;
+    font-family: Avenir Next LT Pro Demi;
+    border-radius: 8px;
+    width: 250px;
+    height: 55px;
+    border: 3px solid black;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.contact {
+    font-family: Avenir Next LT Pro Demi;
+    font-size: 50px;
+    font-weight: normal;
+    /* font-weight: 400; */
+    margin-top: 55px;
+
+}
